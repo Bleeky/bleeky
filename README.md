@@ -7,14 +7,14 @@
    <a href="https://twitter.com/quentinhausser"><img alt="Twitter" src="https://img.shields.io/badge/-@quentinhausser-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/quentinhausser"></a>
 </p>
 
-<h3 align="left">  I'm an technical sales engineer in the space-tech <a href="https://spire.com">@SpireGlobal</a>! Part-time traveller, web-lover, science enthusiast and eternal optimist.</h3>
+<h3 align="left">  I'm an Solutions Engineer in the CPaaS industry <a href="https://www.messagebird.com">@MessageBird</a>! Part-time traveller, web-lover, science enthusiast and eternal optimist.</h3>
 
 ---
 
 <img align="right" height="300" src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif">
 
 
-- 🔭 **I’m currently working on:** Data analysis in the aviation industry
+- 🔭 **I’m currently working on:** Scripting with Deno 🦕
 - ⚡ **Hobbies:** books, history, hiking
 
 ---
