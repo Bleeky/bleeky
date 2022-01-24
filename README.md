@@ -7,7 +7,7 @@
    <a href="https://twitter.com/quentinhausser"><img alt="Twitter" src="https://img.shields.io/badge/-@quentinhausser-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/quentinhausser"></a>
 </p>
 
-<h3 align="left">  I'm an Solutions Engineer in the CPaaS industry <a href="https://www.messagebird.com">@MessageBird</a>! Part-time traveller, web-lover, science enthusiast and eternal optimist.</h3>
+<h3 align="left">  I'm a Solutions Engineer in the CPaaS industry <a href="https://www.messagebird.com">@MessageBird</a>! Part-time traveller, web-lover, science enthusiast and eternal optimist.</h3>
 
 ---
 
