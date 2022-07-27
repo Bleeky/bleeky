@@ -11,10 +11,10 @@
 
 ---
 
-<img align="right" height="400" src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif">
+<img align="right" height="400" src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif">
 
 
-- 🔭 **I’m currently working on:** RayTracing with Rust!
+- 🔭 **I’m currently working on:** RayTracing with Rust! 🦀
 - ⚡ **Hobbies:** books, history, hiking
 
 ---
